@@ -1,9 +1,9 @@
 ![Main image](https://www.pngplay.com/wp-content/uploads/13/Programmer-PNG-Free-File-Download.png)
 # Hi, :wave: I'm Bernardo Balixa
-### I'm a Full Stack Web Developer
+### I'm a Backend Developer
 ## 💁‍♂️ About me
-- 👷 Currently looking for new oportunities.
-- 💻 Most used line of code ```npm run dev```
+- 👷 Currently working at Optiply.
+- 💻 Most used line of code ```if err != nil {```
 - 📫 How to reach me: [bernardobalixa@gmail.com](mailto:bernardobalixa@gmail.com)
 - 😆 Favorite language: ASseMblY
 - 🎮 Hobbies: Read, gym and play videogames
@@ -45,6 +45,7 @@
 - 📆 2019/20 -> Developed the same desktop application but this time with **Electron/Javascript**.
 - 📆 2020/21 -> Went back to web development and started working with **MERN Stack**.
 - 📆 2021 -> Started college in **Computer Science**.
+- 📆 2024 -> Started working at Optiply as a **Backend Developer**.
 ## 📱 Follow me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" height="25" />](https://www.linkedin.com/in/bernardo-balixa-911ba416a)
 ▪️
